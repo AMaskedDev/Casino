@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sayia\Desktop\Programming\CPP\Casinoo\Casinoo\main.cpp(9,30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Casinoo.vcxproj -> C:\Users\sayia\Desktop\Programming\CPP\Casinoo\x64\Debug\Casinoo.exe
